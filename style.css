@@ -151,3 +151,31 @@ canvas{
     color: #7c7c7c;
     font-weight: 400;
 }
+
+#page2>#text1{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+
+#page2>#text1>h3{
+    color: #7c7c7c;
+    font-weight: 400;
+}
+
+#page2>#text1>h1{
+    font-size: 60px;
+    line-height: 1.5;
+}
+
+#page2>#text2{
+    position: absolute;
+    top: 55%;
+    right: 10%;
+    text-align: end;
+}
+
+#page2>#text2>p{
+    color: #7c7c7c;
+    font-weight: 400;
+}
