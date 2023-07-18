@@ -179,3 +179,17 @@ canvas{
     color: #7c7c7c;
     font-weight: 400;
 }
+
+#page3>#text3{
+    position: absolute;
+    top: 40%;
+    right: 10%;
+    text-align: end;
+}
+#page3>#text3>h3{
+    color: #7c7c7c;
+    font-weight: 400;
+}
+#page3>#text3>h1{
+    font-size: 70px;
+}
