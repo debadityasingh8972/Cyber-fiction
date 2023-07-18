@@ -117,3 +117,37 @@ canvas{
     font-family: gilroy;
     font-weight: 500;
 }
+
+#page1>#right-text{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+
+#page1>#right-text>h3{
+    font-weight: 400;
+    color: #7c7c7c;
+}
+
+#page1>#right-text>h1{
+    line-height: 1.5;
+    font-size: 50px;
+    color: #000000;
+}
+
+#page1>#left-text{
+    position: absolute;
+    top: 50%;
+    right: 10%;
+    text-align: end;
+}
+
+#page1>#left-text>h1{
+    font-size: 50px;
+    line-height: 1.5;
+}
+
+#page1>#left-text>h3{
+    color: #7c7c7c;
+    font-weight: 400;
+}
